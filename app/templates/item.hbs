@@ -1,0 +1,10 @@
+{{log model}}
+<h4>{{model.name}}</h4>
+<img src="/{{model.image}}" alt="{{model.name}}">
+<p>3.9</p>
+<p>{{model.description}} </p>
+<p>
+{{#link-to 'item.nutrition'}}nutrition{{/link-to}}
+</p>	
+
+{{outlet}}

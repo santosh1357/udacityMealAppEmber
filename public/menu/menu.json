@@ -1,0 +1,26 @@
+[
+  {
+     "id": "chicken_Curry",
+     "name": "Chicken Curry",
+     "image": "chickenCurry.jpg",
+     "source": "https: //www.pexels.com/photo/salad-pomegranate-chicken-spinach-5916/",
+     "photographer": "Karolina Grabowska.STAFFAGE",
+     "description": "The best ones are cooked at home when  fried properly with desi spices and cooked with patience, love and skill."
+  },
+  {
+     "id": "mutton_curry",
+     "name": "Mutton Curry",
+     "image": "muttonCurry.jpg",
+     "source": "https: //www.pexels.com/photo/restaurant-dessert-pudding-strawberries-3674/",
+     "photographer": "",
+     "description": "The best ones are cooked at home when  fried properly with desi spices and cooked with patience, love and skill."
+  },
+  {
+     "id": "paneer_curry",
+     "name": "Paneer Curry",
+     "image": "paneerCurry.jpg",
+     "source": "https: //www.pexels.com/photo/croissant-bakery-plate-food-7390/",
+     "photographer": "",
+     "description": "The best ones are cooked at home when  fried properly with desi spices and cooked with patience, love and skill."
+  }
+]
